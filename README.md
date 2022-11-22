@@ -5,10 +5,24 @@
 ![badge release date](https://img.shields.io/badge/release%20date-November%2F2022-blue)
 
 ### TOPICS
-
+* [Files](#files)
 * [Code Description](#code-description)
 * [My Comments](#my-comments)
 * [Author](#author)
+
+
+## Files
+
+<p align="justify">
+<b>• exercise.py</b>: the original Python script.
+
+<b>• source_data.csv</b>: the original input CSV file.
+
+<b>• main.py</b>: improved Python script (based on the original script).
+
+<b>• processed_data.py</b>: the output CSV file (created by main.py).
+</p>
+
 
 ## Code Description
 
@@ -19,14 +33,13 @@ This is a ETL pipeline created using Python and his library Pandas. This script 
 ## My Comments
 
 <p align="justify">
-With the small information who was given about this task, I decide to keep some aspects of the original script (like use the minimum of libraries, keep all the code in a single file and etc.) and use it as a guidelines when I wrote this code.
+With the small information who was given about this task, I decide to keep some aspects of the original script (like use the minimum of libraries, keep all the code in a single file etc.) and use it as a guidelines when I wrote this code.
 
 In the code, I try to keep it as clean, simple and readable as possible. 
 
-In my humble opinion (based on my professional experience), the best code it's the code who fits the bussiness proccess and needs. For example, I could use Great Expectations library to validate the data from the source CSV file ("source_data.csv") in order to improve the data integrity, but I assumed that this would be not necessary, based on the steps that was used in the original script ("exercise.py").
+In my humble opinion (based on my professional experience), the best code it is the code who fits the business process and needs. For example, I could use Great Expectations Python library to validate the data from the source CSV file ("source_data.csv") in order to improve the data integrity, but I assumed that this would be not necessary, based on the steps that was used in the original script ("exercise.py").
 
-In order to improve this script even more and provides high quality data, it's very importante to deep understand the bussiness and IT proccess about this required data. Without this, sometimes it's better keep the code simple than use "a cannon to kill a ant".
-  
+In order to improve this script even more and provides high quality data, it's very important to deep understand the business and IT process about this required data. Once we have this, we can write the code using the best methods and practices, this also allow us to avoid multiple errors scenarios, since we can anticipated their and work in their solutions. Without this knowledge, sometimes it's better keep the code simple and functional than use <i>"a cannon to kill an ant"</i>.
 </p>
 
 
