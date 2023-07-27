@@ -1,6 +1,12 @@
-<h1 align="center"> Pandas ETL </h1>
+<h1 align="center"> Python Pandas </h1>
+<div dir="auto" align="center">
+  <br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img align="center" alt="Gustavo-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"><img align="center" alt="Gustavo-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" style="max-width: 100%;"></a>
+</br>
+</div>
 
-![pandas logo](https://user-images.githubusercontent.com/93624837/203309606-0b034b69-c40e-4ee6-9029-019676950f1c.jpg)
 
 ### TOPICS
 * [Files](#files)
