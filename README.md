@@ -68,7 +68,7 @@ Para começar, certifique-se de que o Python está instalado em seu ambiente. O 
 ## Executando o Programa
 <p align="justify"> 
 Para executar o programa, certifique-se de que este script ('main.py') e o arquivo CSV de origem ('source_data.csv') estão localizados no mesmo diretório. Navegue até o diretório no seu terminal e execute o script usando o comando `python main.py`. Certifique-se de que passou os argumentos necessários para a função principal, que incluem o arquivo de entrada, o arquivo de saída e a data de filtro.
-</p>"
+</p>
 
 ## Autor
 <p align="justify"> Gustavo de Souza Pessanha da Costa.
